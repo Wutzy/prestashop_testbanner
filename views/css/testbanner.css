@@ -1,0 +1,25 @@
+#testbanner_block_home {
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+.block_content p {
+    color: white;
+}
+
+#closeBannerButton{
+    padding: 5px 10px 5px 10px;
+    border: solid white 2px;
+    border-radius: 15px;
+    cursor: pointer;
+    color: white;
+}
+
+.grow {
+    transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.1);
+}
+
